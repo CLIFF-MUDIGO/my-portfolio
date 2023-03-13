@@ -31,14 +31,9 @@ my portfolio describes what im currently doing on this project i used html and c
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
-To install all requirements
-
-> $ python3 manage.py runserver
-Then run server with the above command
-*****
+install vscode
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [LINK.](https://iridescent-biscochitos-5a8247.netlify.app/)
 *****
 ## Dependencies
 -fonts
