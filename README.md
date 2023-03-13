@@ -6,7 +6,7 @@
 my portfolio describes what im currently doing on this project i used html and css and js
 
 ## SCREENSHOTS
-- link 1
+- https://github.com/CLIFF-MUDIGO/my-portfolio/issues/1
 - link 2
 
 
