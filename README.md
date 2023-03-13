@@ -1,5 +1,5 @@
 # My-portfolio
-*****
+
 ### Author : Cliff Mudigo 9th 2023
 ****
 ## Project Description
