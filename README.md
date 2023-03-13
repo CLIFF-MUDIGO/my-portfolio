@@ -7,7 +7,7 @@ my portfolio describes what im currently doing on this project i used html and c
 
 ## SCREENSHOTS
 - https://github.com/CLIFF-MUDIGO/my-portfolio/issues/1
-- link 2
+- https://github.com/CLIFF-MUDIGO/my-portfolio/issues/2
 
 
 ********
